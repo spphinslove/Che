@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TopDownRogueLiteEditor.cpp.obj": [
+			"TDRL_ActorFactorySpawnVolume.gen.cpp.obj",
+			"TopDownRogueLiteEditor.init.gen.cpp.obj",
+			"TDRL_ActorFactorySpawnVolume.cpp.obj",
+			"TopDownRogueLiteEditor.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TopDownRogueLiteEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\Che\Intermediate\Build\Win64\x64\CheEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"D:\Unreal Projects\Che\Plugins\TopDownRogueLite\Intermediate\Build\Win64\x64\UnrealEditor\Development\TopDownRogueLiteEditor\Module.TopDownRogueLiteEditor.cpp.obj"
+"D:\Unreal Projects\Che\Plugins\TopDownRogueLite\Intermediate\Build\Win64\x64\UnrealEditor\Development\TopDownRogueLiteEditor\Default.rc2.res"
+/OUT:"D:\Unreal Projects\Che\Plugins\TopDownRogueLite\Intermediate\Build\Win64\x64\UnrealEditor\Development\TopDownRogueLiteEditor\UnrealEditor-TopDownRogueLiteEditor.lib"
